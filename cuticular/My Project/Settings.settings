@@ -1,0 +1,105 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ComboBox_daq01" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ComboBox_daq02" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ComboBox_daq03" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="ComboBox_daq04" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="ComboBox_daq05" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="ComboBox_daq06" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="ComboBox_daq07" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="ComboBox_daq08" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="ComboBox_daq09" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="ComboBox_daq10" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="ComboBox_daq11" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="ComboBox_daq12" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">11</Value>
+    </Setting>
+    <Setting Name="ComboBox_affectation01" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ComboBox_affectation02" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ComboBox_affectation03" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ComboBox_affectation04" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="ComboBox_affectation05" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="ComboBox_affectation06" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="ComboBox_affectation07" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ComboBox_affectation08" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ComboBox_affectation09" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ComboBox_affectation10" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ComboBox_affectation11" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ComboBox_affectation12" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="phidget_list" Type="System.String" Scope="User">
+      <Value Profile="(Default)">582611,582686,583206,583433,583447,583457,588686,588850,589036,589048,589129,589162,589184</Value>
+    </Setting>
+    <Setting Name="threadingtime_BEFORE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">750</Value>
+    </Setting>
+    <Setting Name="threadingtime_AFTER" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">750</Value>
+    </Setting>
+    <Setting Name="Timer_START_DAQ_Interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60000</Value>
+    </Setting>
+    <Setting Name="checkbox_autofill_samplenames" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="default_folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\</Value>
+    </Setting>
+    <Setting Name="default_cal_file" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2021_01_04_calibration.csv</Value>
+    </Setting>
+    <Setting Name="NumUpDown_nbofdev" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="zero_res" Type="System.String" Scope="User">
+      <Value Profile="(Default)">08/01/2021 10:55:15,_,ZERO,,,,,,,,,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,-9999,3.27826E-07,-1.6205E-07,-1.5201978E-05,6.402843E-06,-1.073815E-06,-1.611188E-06,5.116686E-06,8.789822E-06,-9999,-9999,-9999,-9999,2.047047E-06,-2.9926188E-05,1.098961E-06,6.686896E-06,-9999,-9999,-9999,-9999,</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
